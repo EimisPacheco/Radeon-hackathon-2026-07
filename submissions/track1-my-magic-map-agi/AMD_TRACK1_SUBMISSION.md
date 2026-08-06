@@ -133,6 +133,4 @@ FastAPI bridge was tunneled.
 - Complete source code and dependency/configuration documentation.
 - Project profile PDF: `output/pdf/My_Magic_Map_AGI_Track1_Project_Profile.pdf`.
 - Supplementary poster: `output/pdf/My_Magic_Map_AGI_Track1_Poster.pdf`.
-- English demo voiceover and actual-operation shot plan:
-  `docs/AMD_DEMO_VOICEOVER_SCRIPT.md`.
 - 4:19 actual-operation demo video: `AMD-Magical-Map-AGI.mp4`.

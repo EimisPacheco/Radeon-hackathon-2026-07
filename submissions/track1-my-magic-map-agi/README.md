@@ -22,7 +22,6 @@ virtual memories.
 | Complete source code | [`source/`](source) pinned submodule and the [public source repository](https://github.com/EimisPacheco/my-magic-map-agi-adm) | Complete |
 | Environment, startup, dependencies | Source `README.md`, `.env.example`, `package-lock.json`, `amd-service/README.md`, and `amd-service/requirements.txt` | Complete |
 | Supplementary material | [Project poster PDF](My_Magic_Map_AGI_Track1_Poster.pdf) | Complete |
-| Demo plan | [English voiceover and shot plan](AMD_DEMO_VOICEOVER_SCRIPT.md) | Complete |
 | 3–5 minute actual-operation video | [AMD Magical Map AGI — 4:19 demo](AMD-Magical-Map-AGI.mp4) | Complete |
 | Promotional artwork | [AMD Radeon / ROCm hero graphic](my-magic-map-agi-amd-ai-devmaster-track1-1200x627.png) | Complete |
 
