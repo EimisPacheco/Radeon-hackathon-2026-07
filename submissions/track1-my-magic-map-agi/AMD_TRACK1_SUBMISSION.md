@@ -135,5 +135,4 @@ FastAPI bridge was tunneled.
 - Supplementary poster: `output/pdf/My_Magic_Map_AGI_Track1_Poster.pdf`.
 - English demo voiceover and actual-operation shot plan:
   `docs/AMD_DEMO_VOICEOVER_SCRIPT.md`.
-- A 3–5 minute workflow and Radeon performance demonstration; the published
-  video URL is the remaining participant-recorded artifact.
+- 4:19 actual-operation demo video: `AMD-Magical-Map-AGI.mp4`.

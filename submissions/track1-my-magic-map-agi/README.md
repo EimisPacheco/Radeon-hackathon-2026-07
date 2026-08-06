@@ -23,7 +23,8 @@ virtual memories.
 | Environment, startup, dependencies | Source `README.md`, `.env.example`, `package-lock.json`, `amd-service/README.md`, and `amd-service/requirements.txt` | Complete |
 | Supplementary material | [Project poster PDF](My_Magic_Map_AGI_Track1_Poster.pdf) | Complete |
 | Demo plan | [English voiceover and shot plan](AMD_DEMO_VOICEOVER_SCRIPT.md) | Complete |
-| 3–5 minute actual-operation video | Public URL will be added after the participant records the live operation | **Participant recording required** |
+| 3–5 minute actual-operation video | [AMD Magical Map AGI — 4:19 demo](AMD-Magical-Map-AGI.mp4) | Complete |
+| Promotional artwork | [AMD Radeon / ROCm hero graphic](my-magic-map-agi-amd-ai-devmaster-track1-1200x627.png) | Complete |
 
 ## How AMD Radeon is used
 
@@ -69,11 +70,12 @@ bridge, ComfyUI startup, health checks, and smoke tests are documented in
 `source/amd-service/README.md`. API keys, bearer tokens, model weights,
 personal photos, and private data are intentionally excluded.
 
-## Demo video status
+## Demo video
 
-The contest pull request remains a draft until the participant records and
-publishes the live 3–5 minute demo. The prepared shot plan requires the final
-take to show `rocminfo`, PyTorch/HIP GPU confirmation, authenticated bridge
-health, the application AMD-online indicator, an uncut Paint a Place run, a
-second visibly different Radeon output, a successful Qwen pointed-object
-result, timing/provider metadata, and a saved final artifact.
+The submitted [4:19 actual-operation video](AMD-Magical-Map-AGI.mp4) shows
+body-controlled Street View navigation, flying through the photorealistic map,
+memory navigation, nose-pointed discovery and practical results, Paint a Place
+creative controls, voice-guided travel, and the full system architecture. The
+technical record and profile PDF provide the accompanying verified Radeon/ROCm
+runtime evidence, adaptation decisions, benchmark method, and SDXL/Qwen timing
+results.
